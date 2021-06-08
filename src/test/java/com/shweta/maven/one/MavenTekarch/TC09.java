@@ -10,9 +10,7 @@ public class TC09 extends UserMenuDropDown {
 		logout.click();
 	
 	}
-
-	public static void main(String[] args) throws InterruptedException {
-		
+	public static void main(String[] args) throws InterruptedException {		
 		TC09 testCase = new TC09();
 		testCase.userMenuDrop();
 		testCase.tc09();

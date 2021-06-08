@@ -50,7 +50,7 @@ ExtentReports 2.0
 <i class='mdi-hardware-desktop-windows'></i>
 </li>
 <li>
-<span class='suite-started-time'>2021-05-27 02:25:14</span>
+<span class='suite-started-time'>2021-06-07 21:18:22</span>
 </li>
 <li>
 <span>v2.40.2</span>
@@ -80,25 +80,25 @@ ExtentReports 2.0
 <div class='col l2 m4 s12'>
 <div class='card suite-total-time-current'> 
 <span class='panel-name'>Total Time Taken (Current Run)</span> 
-<span class='suite-total-time-current-value panel-lead'>0h 0m 15s+677ms</span> 
+<span class='suite-total-time-current-value panel-lead'>0h 0m 18s+157ms</span> 
 </div> 
 </div>
 <div class='col l2 m4 s12'>
 <div class='card suite-total-time-overall'> 
 <span class='panel-name'>Total Time Taken (Overall)</span> 
-<span class='suite-total-time-overall-value panel-lead'>0h 0m 15s+677ms</span> 
+<span class='suite-total-time-overall-value panel-lead'>0h 0m 18s+157ms</span> 
 </div> 
 </div>
 <div class='col l2 m4 s6 suite-start-time'>
 <div class='card accent green-accent'> 
 <span class='panel-name'>Start</span> 
-<span class='panel-lead suite-started-time'>2021-05-27 02:24:59</span> 
+<span class='panel-lead suite-started-time'>2021-06-07 21:18:04</span> 
 </div> 
 </div>
 <div class='col l2 m4 s6 suite-end-time'>
 <div class='card accent pink-accent'> 
 <span class='panel-name'>End</span> 
-<span class='panel-lead suite-ended-time'>2021-05-27 02:25:14</span> 
+<span class='panel-lead suite-ended-time'>2021-06-07 21:18:22</span> 
 </div> 
 </div>
 </div>
@@ -226,7 +226,7 @@ ExtentReports 2.0
 <div class='card-panel no-padding-h no-padding-v no-margin-v'>
 <div class='wrapper'>
 <ul id='test-collection' class='test-collection'>
-<li class='collection-item test displayed active pass ' extentid='8108582c-9f40-4255-8aa6-39abbfee4a16'>
+<li class='collection-item test displayed active pass ' extentid='412a3b43-3bf2-4c9a-989f-6405d236dede'>
 <div class='test-head'>
 <span class='test-name'>Login </span>
 <span class='test-status label right outline capitalize pass'>pass</span>
@@ -234,9 +234,9 @@ ExtentReports 2.0
 </div>
 <div class='test-body'>
 <div class='test-info'>
-<span title='Test started time' alt='Test started time' class='test-started-time label green lighten-1 text-white'>2021-05-27 02:24:59</span>
-<span title='Test ended time' alt='Test ended time' class='test-ended-time label red lighten-1 text-white'>2021-05-27 02:25:14</span>
-<span title='Time taken to finish' alt='Time taken to finish' class='test-time-taken label blue-grey lighten-3 text-white'>0h 0m 15s+461ms</span>
+<span title='Test started time' alt='Test started time' class='test-started-time label green lighten-1 text-white'>2021-06-07 21:18:04</span>
+<span title='Test ended time' alt='Test ended time' class='test-ended-time label red lighten-1 text-white'>2021-06-07 21:18:11</span>
+<span title='Time taken to finish' alt='Time taken to finish' class='test-time-taken label blue-grey lighten-3 text-white'>0h 0m 7s+59ms</span>
 </div>
 <div class='test-desc'></div>
 <div class='test-attributes'>
@@ -253,29 +253,125 @@ ExtentReports 2.0
 <tbody>
 <tr>
 <td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
-<td class='timestamp'>02:24:59</td>
+<td class='timestamp'>21:18:04</td>
 <td class='step-details'>Test Case started</td>
 </tr>
 <tr>
 <td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
-<td class='timestamp'>02:25:03</td>
+<td class='timestamp'>21:18:05</td>
 <td class='step-details'>Username entered successfully.</td>
 </tr>
 <tr>
 <td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
-<td class='timestamp'>02:25:07</td>
+<td class='timestamp'>21:18:06</td>
 <td class='step-details'>Password entered successfully.</td>
 </tr>
 <tr>
 <td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
-<td class='timestamp'>02:25:09</td>
+<td class='timestamp'>21:18:08</td>
 <td class='step-details'>Login button was clicked successfully</td>
 </tr>
 <tr>
 <td class='status pass' title='pass' alt='pass'><i class='mdi-action-check-circle'></i></td>
-<td class='timestamp'>02:25:14</td>
+<td class='timestamp'>21:18:11</td>
 <td class='step-details'>Testcase passed, see the attached screenshot. 
-<img class='report-img' data-featherlight='file:////Users/sanjeevojha/shweta-workspace/TestCasesSalesForce/src/test/resources/reports//ScreenShots/Image_202105270225.png' src='file:////Users/sanjeevojha/shweta-workspace/TestCasesSalesForce/src/test/resources/reports//ScreenShots/Image_202105270225.png' /></td>
+<img class='report-img' data-featherlight='file:////Users/sanjeevojha/shweta-workspace/TestCasesSalesForce/src/test/resources/reports//ScreenShots/Image_202106072118.png' src='file:////Users/sanjeevojha/shweta-workspace/TestCasesSalesForce/src/test/resources/reports//ScreenShots/Image_202106072118.png' /></td>
+</tr>
+</tbody>
+</table>
+<ul class='collapsible node-list' data-collapsible='accordion'>
+</ul>
+</div>
+</div>
+</li>
+<li class='collection-item test displayed active pass ' extentid='cdec1842-d29a-4f05-b0e4-fa8384f1e640'>
+<div class='test-head'>
+<span class='test-name'>Navigate to Account Tab </span>
+<span class='test-status label right outline capitalize pass'>pass</span>
+<span class='category-assigned hide '></span>
+</div>
+<div class='test-body'>
+<div class='test-info'>
+<span title='Test started time' alt='Test started time' class='test-started-time label green lighten-1 text-white'>2021-06-07 21:18:11</span>
+<span title='Test ended time' alt='Test ended time' class='test-ended-time label red lighten-1 text-white'>2021-06-07 21:18:14</span>
+<span title='Time taken to finish' alt='Time taken to finish' class='test-time-taken label blue-grey lighten-3 text-white'>0h 0m 2s+737ms</span>
+</div>
+<div class='test-desc'></div>
+<div class='test-attributes'>
+</div>
+<div class='test-steps'>
+<table class='bordered table-results'>
+<thead>
+<tr>
+<th>Status</th>
+<th>Timestamp</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
+<td class='timestamp'>21:18:11</td>
+<td class='step-details'>Navigate to Account Tab Test Case started</td>
+</tr>
+<tr>
+<td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
+<td class='timestamp'>21:18:12</td>
+<td class='step-details'>Account Tab Clicked</td>
+</tr>
+<tr>
+<td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
+<td class='timestamp'>21:18:14</td>
+<td class='step-details'>Account Tab opened successfully. 
+<img class='report-img' data-featherlight='file:////Users/sanjeevojha/shweta-workspace/TestCasesSalesForce/src/test/resources/reports//ScreenShots/Image_202106072118.png' src='file:////Users/sanjeevojha/shweta-workspace/TestCasesSalesForce/src/test/resources/reports//ScreenShots/Image_202106072118.png' /></td>
+</tr>
+</tbody>
+</table>
+<ul class='collapsible node-list' data-collapsible='accordion'>
+</ul>
+</div>
+</div>
+</li>
+<li class='collection-item test displayed active pass ' extentid='33145080-b6f0-47dd-9abe-2cca3f1b0900'>
+<div class='test-head'>
+<span class='test-name'>Activity Accounts </span>
+<span class='test-status label right outline capitalize pass'>pass</span>
+<span class='category-assigned hide '></span>
+</div>
+<div class='test-body'>
+<div class='test-info'>
+<span title='Test started time' alt='Test started time' class='test-started-time label green lighten-1 text-white'>2021-06-07 21:18:14</span>
+<span title='Test ended time' alt='Test ended time' class='test-ended-time label red lighten-1 text-white'>2021-06-07 21:18:22</span>
+<span title='Time taken to finish' alt='Time taken to finish' class='test-time-taken label blue-grey lighten-3 text-white'>0h 0m 8s+150ms</span>
+</div>
+<div class='test-desc'></div>
+<div class='test-attributes'>
+</div>
+<div class='test-steps'>
+<table class='bordered table-results'>
+<thead>
+<tr>
+<th>Status</th>
+<th>Timestamp</th>
+<th>Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
+<td class='timestamp'>21:18:16</td>
+<td class='step-details'>Clicked on Account with activity greater than 30 days.</td>
+</tr>
+<tr>
+<td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
+<td class='timestamp'>21:18:17</td>
+<td class='step-details'>Unsaved Reports Page is Displayed.</td>
+</tr>
+<tr>
+<td class='status info' title='info' alt='info'><i class='mdi-action-info-outline'></i></td>
+<td class='timestamp'>21:18:22</td>
+<td class='step-details'>Test for accounts with activity greater than 30 days saved and run successfully. 
+<img class='report-img' data-featherlight='file:////Users/sanjeevojha/shweta-workspace/TestCasesSalesForce/src/test/resources/reports//ScreenShots/Image_202106072118.png' src='file:////Users/sanjeevojha/shweta-workspace/TestCasesSalesForce/src/test/resources/reports//ScreenShots/Image_202106072118.png' /></td>
 </tr>
 </tbody>
 </table>
